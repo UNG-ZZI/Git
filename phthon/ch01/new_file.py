@@ -1,2 +1,2 @@
 print("new file")
-print("new file1")
+print("new file2")
